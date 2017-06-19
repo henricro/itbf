@@ -1,4 +1,3 @@
 # itbf
-dataviz pour itbf
 
-what is up with everyone ?
+<script src="https://d3js.org/d3.v4.js"></script>
